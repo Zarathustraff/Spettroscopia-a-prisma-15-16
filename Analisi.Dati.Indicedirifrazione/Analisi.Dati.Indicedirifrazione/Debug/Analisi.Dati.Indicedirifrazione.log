@@ -1,0 +1,3 @@
+﻿  Analisi.Dati.Indicedirifrazione.cpp
+c:\users\stefano\documents\github\nuovarepo\analisi.dati.indicedirifrazione\analisi.dati.indicedirifrazione\analisi.dati.indicedirifrazione.cpp(45): warning C4244: 'inizializzazione': conversione da 'double' a 'int'. Possibile perdita di dati.
+  Analisi.Dati.Indicedirifrazione.vcxproj -> C:\Users\Stefano\Documents\GitHub\NuovaRepo\Analisi.Dati.Indicedirifrazione\Debug\Analisi.Dati.Indicedirifrazione.exe
